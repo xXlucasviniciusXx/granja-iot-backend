@@ -36,13 +36,9 @@ git status
 Você deve ver:
 
 manage.py
-
 core/
-
 granja_iot/
-
 README.md
-
 requirements.txt
 
 Agora execute:
